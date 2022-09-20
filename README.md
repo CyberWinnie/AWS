@@ -1,11 +1,11 @@
 # AWS
 ![image](https://user-images.githubusercontent.com/113265412/190014497-3bd6d532-fbfb-4cb0-839e-9569224664c9.png)
 
-static and dynamic website hosting  with EC2  and S3 (Role creation)
+Static and dynamic website hosting  with EC2  and S3 (Role creation)
 
 ![role to link ec2 to s3](https://user-images.githubusercontent.com/113265412/191360419-a9bf7181-e2aa-4202-a7c9-d5dc478f0c75.jpg)
 
-Use of mobaxterm (ssl) to access the server
+Use of mobaxterm (ssl) to access the server using Linux
 
 
 ![mobaxterm ssh cope to the server](https://user-images.githubusercontent.com/113265412/191359998-e0881d53-2d11-4859-a75f-dfaa6ed25791.jpg)
